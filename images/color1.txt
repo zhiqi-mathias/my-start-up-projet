@@ -1,0 +1,4 @@
+#cf455c red
+#ffdd67 yellow
+#ff8a5c orange
+#444444 dark grey

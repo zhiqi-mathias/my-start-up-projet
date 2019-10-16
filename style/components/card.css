@@ -1,0 +1,54 @@
+.cards{display: flex;
+	flex-wrap: wrap;
+	background-color: #e5e3e3;
+	font-size: 100px;
+	width: 900px;
+	margin: 5px auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.card{
+	height: 150px;
+	width: 200px;
+	background-color: #cf455c ;
+	display: flex;
+	flex-grow: 1;
+	margin: 5px;
+	justify-content: space-between;
+	padding: 20px;
+	align-items: center;
+	border-radius: 5px;
+	flex-basis: 400px;
+	;
+
+
+	}
+
+.item{
+	height: 150px;
+	width: 200px;
+
+
+}
+
+.itemintro{
+	overflow: hidden;
+	display: inline-block;
+	width: 200px;
+	height:150px;
+	line-height: 50px
+
+	;
+
+
+}
